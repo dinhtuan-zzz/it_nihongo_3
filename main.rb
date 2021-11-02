@@ -1,2 +1,1 @@
 puts "hehe"
-puts "haha"
