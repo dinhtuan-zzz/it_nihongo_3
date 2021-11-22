@@ -1,5 +1,5 @@
 def introduce
-  puts 'Hehehe'
+  puts 'Hehe'
   puts 'This is function'
 end
 
